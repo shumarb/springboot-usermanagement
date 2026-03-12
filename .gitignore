@@ -25,3 +25,6 @@ __MACOSX
 
 # Target ###
 /target/
+
+# Application.properties
+src/main/resources/application.properties
